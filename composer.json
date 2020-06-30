@@ -1,13 +1,13 @@
 {
-  "name": "indigerd/hydrator",
+  "name": "bookimed/hydrator",
   "description": "Hydrate data to objects and extract data from objects",
   "keywords": ["library", "hydrate", "extract", "hydrator", "ddd"],
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Alexander Stepanenko",
-      "email": "alex.stepanenko@gmail.com"
+      "name": "Vladyslav Chumak",
+      "email": "aleksphesspro@gmail.com"
     }
   ],
   "require": {
@@ -18,12 +18,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Indigerd\\Hydrator\\": "src"
+      "Bookimed\\Hydrator\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Indigerd\\Hydrator\\Test\\": "tests"
+      "Bookimed\\Hydrator\\Test\\": "tests"
     }
   }
 }

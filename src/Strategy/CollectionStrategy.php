@@ -1,8 +1,8 @@
 <?php
 
-namespace Indigerd\Hydrator\Strategy;
+namespace Bookimed\Hydrator\Strategy;
 
-use Indigerd\Hydrator\Hydrator;
+use Bookimed\Hydrator\Hydrator;
 
 class CollectionStrategy implements StrategyInterface
 {

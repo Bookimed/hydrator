@@ -1,6 +1,6 @@
 <?php
 
-namespace Indigerd\Hydrator\Strategy;
+namespace Bookimed\Hydrator\Strategy;
 
 interface StrategyInterface
 {

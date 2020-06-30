@@ -1,6 +1,6 @@
 <?php
 
-namespace Indigerd\Hydrator\Accessor;
+namespace Bookimed\Hydrator\Accessor;
 
 use ReflectionClass;
 

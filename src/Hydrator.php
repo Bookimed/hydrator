@@ -1,9 +1,9 @@
 <?php
 
-namespace Indigerd\Hydrator;
+namespace Bookimed\Hydrator;
 
-use Indigerd\Hydrator\Accessor\AccessorInterface;
-use Indigerd\Hydrator\Strategy\StrategyInterface;
+use Bookimed\Hydrator\Accessor\AccessorInterface;
+use Bookimed\Hydrator\Strategy\StrategyInterface;
 
 class Hydrator
 {
